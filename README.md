@@ -1,1 +1,2 @@
-# At_One_Glance
+# At One Glance
+A repository of information & knowledge
