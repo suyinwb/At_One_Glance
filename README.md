@@ -19,3 +19,11 @@ There are two main forms of the t-test that we use: the one-sample t-test and th
 
 H0 : There is no statistical difference between the observed sample mean and its presumed population mean.
 Ha : There is a statistical difference between the observed sample mean and its presumed population mean.
+
+Before we can apply any statistical test to our data, we must check if there are any assumptions regarding our input dataset. When it comes to our one-sample t-test there are five assumptions about our input data:
+
+The input data is numerical and continuous. This is because we are testing the distribution of two datasets.
+The sample data was selected randomly from its population data.
+The input data is considered to be normally distributed.
+The sample size is reasonably large. Generally speaking, this means that the sample data distribution should be similar to its population data distribution.
+The variance of the input data should be very similar.
