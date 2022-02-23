@@ -27,3 +27,21 @@ The sample data was selected randomly from its population data.
 The input data is considered to be normally distributed.
 The sample size is reasonably large. Generally speaking, this means that the sample data distribution should be similar to its population data distribution.
 The variance of the input data should be very similar.
+
+
+## Natural Language Processing Core Concepts
+
+1. Tokenization: splitting a document or sentence into small subsets of data that can be analyzed
+Original sentence: I am enjoying learning about NLP.
+Tokenized by word: ['I', 'am', 'enjoying', 'learning', 'about', 'NLP', '.']
+
+Original sentence: There is a concept in NLP called tokenization. There are two types of tokenization: word and sentence.
+Tokenized by sentence: ['There is a concept in NLP called tokenization.', 'There are two types of tokenization: word and sentence.']
+
+* Use NLTK or spaCy libraries
+
+2. Normalization: concept of taking misspelled words and converting them into their original form. This is another building block in NLP in that it helps get the text to a readable form and allows us to create other use cases on top of it.
+* Stemmingremoves the suffix from a word and reduces it to its original form. This serves as a “rough” cut off the end of the word. An example of stemming might be to reduce “horses” to “horse” and “ponies” to “poni.” As seen here, the truncated form is not always a real word.
+
+* Lemmatization: removes the suffix from a word and reduces it to its original form. Lemmatization tends to be a “smoother” cut off the end of the word. It tries to return to the original root word. In contrast to stemming, lemmatization always returns a real word. For example, the word “am” might be lemmatized to “be.” While stemming is a blunt instrument that follows abstract rules regardless of real-world usage, lemmatization performs a similar process but reduces words to their root. Lemmatization accomplishes this by using a lexicon (a specialized dictionary) of words and their variant forms.
+
