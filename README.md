@@ -45,3 +45,14 @@ Tokenized by sentence: ['There is a concept in NLP called tokenization.', 'There
 
 * Lemmatization: removes the suffix from a word and reduces it to its original form. Lemmatization tends to be a “smoother” cut off the end of the word. It tries to return to the original root word. In contrast to stemming, lemmatization always returns a real word. For example, the word “am” might be lemmatized to “be.” While stemming is a blunt instrument that follows abstract rules regardless of real-world usage, lemmatization performs a similar process but reduces words to their root. Lemmatization accomplishes this by using a lexicon (a specialized dictionary) of words and their variant forms.
 
+3. Part-of-Speech Tagging: PoS tagging is the concept of finding each word's part of speech in a given document.
+
+4. Bag-of-Words: If we create a bag-of-words (BoW) model (i.e., the most frequent words), we can build models from that. The basic idea behind this model is this: We have a document of words, but we don't care about the order of the words. We can count these words and create models based on how frequently they appear.
+
+5. n-gram
+In NLP, there is an n-gram method, which is a sequence of items from a given text. With n-gram, you create groupings of items from the text of size 1 or more. The following n-grams are common:
+* Unigram is an n-gram of size 1.
+* Bigram is an n-gram of size 2.
+* Trigram is an n-gram of size 3.
+
+6. Text Similarity: Another popular use case for NLP is determining document or sentence similarity. These are important use cases, because they can tell us a lot about a document and its contents.
