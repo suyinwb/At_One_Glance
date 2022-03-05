@@ -73,3 +73,14 @@ https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-
 ## My Curated List of AI and Machine Learning Resources from Around the Web
 
 https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+
+## 7 Classical Assumptions of Ordinary Least Squares (OLS) Linear Regression
+
+https://statisticsbyjim.com/regression/ols-linear-regression-assumptions/
+
+## ML MindMap 
+https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
+
+## The guy who made ML MindMap
+
+https://github.com/mrdbourke
