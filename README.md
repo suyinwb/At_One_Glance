@@ -66,6 +66,19 @@ There are three types of NLP analyses:
 ## Named-Entity Recognition
 In NLP, named-entity recognition (NER) is the concept of taking a document and finding all of the important terms therein. By "important," we mean names of places and people, government organizations, and so forth.
 
+## SG Learn AI
+https://learn.aisingapore.org/
+
+## Github Learning
+https://lab.github.com/
+
+## Interesting Projects
+* Beginner Projects: https://www.upgrad.com/blog/data-science-project-ideas-topics-beginners/
+* Weird Projects: https://www.analyticsvidhya.com/blog/2019/12/five-weird-data-science-uses/
+
+## Development Methodology for ML
+https://assaf-pinhasi.medium.com/towards-a-development-methodology-for-machine-learning-part-i-f1050a0bc607
+
 
 ## Learn Scikit
 
