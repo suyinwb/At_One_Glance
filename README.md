@@ -82,6 +82,8 @@ https://lab.github.com/
 ## Development Methodology for ML
 https://assaf-pinhasi.medium.com/towards-a-development-methodology-for-machine-learning-part-i-f1050a0bc607
 
+## Data Transformation
+https://towardsdatascience.com/data-transformation-and-feature-engineering-e3c7dfbb4899
 
 ## Learn Scikit
 
