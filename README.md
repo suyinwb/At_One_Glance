@@ -57,6 +57,20 @@ In NLP, there is an n-gram method, which is a sequence of items from a given tex
 
 6. Text Similarity: Another popular use case for NLP is determining document or sentence similarity. These are important use cases, because they can tell us a lot about a document and its contents.
 
+## Where to Find Datasets
+
+### APIS
+* https://github.com/n0shake/Public-APIs
+* https://benjamin-libor.medium.com/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc
+* https://github.com/Kikobeats/awesome-api
+
+### Datasets
+* https://archive.ics.uci.edu/ml/index.php
+* https://data.gov/
+* https://www.kaggle.com/
+* https://data.world/
+* Google Search: https://datasetsearch.research.google.com/
+
 ## NLP Analyses
 There are three types of NLP analyses:
 1. Syntactic analysis is essentially checking the dictionary definition of each element of a sentence or document. In this type of analysis, we don't care about the words that come before or after the word in question—we just care about the given word.
@@ -123,4 +137,8 @@ https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
 
 ## EDA
 
-### EAD in Python: https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
+### EAD in Python
+
+https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
+
+
