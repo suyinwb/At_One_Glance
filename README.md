@@ -114,3 +114,9 @@ https://github.com/mrdbourke
 ## Image Processing Lib in Python
 
 https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning
+
+## Feature Engineering
+
+### Categorical Encoding
+
+https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
