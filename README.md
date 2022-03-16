@@ -120,3 +120,7 @@ https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning
 ### Categorical Encoding
 
 https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
+
+## EDA
+
+### EAD in Python: https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
