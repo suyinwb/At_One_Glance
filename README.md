@@ -86,6 +86,9 @@ https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 ## Bert NLP Primer
 https://huggingface.co/blog/bert-101
 
+## NLP: Discovering Sentiments with Code
+https://asperbrothers.com/blog/sentiment-analysis-in-python/
+
 ## SG Learn AI
 https://learn.aisingapore.org/
 
