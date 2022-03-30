@@ -145,3 +145,10 @@ https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
 https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0
 
 
+## MISC
+
+### Resolving GitHub conflict
+
+(backup the local machine files somewhere first before overwrite)
+git checkout HEAD^ file/to/overwrite
+git pull
