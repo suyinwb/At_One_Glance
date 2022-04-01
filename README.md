@@ -71,6 +71,11 @@ In NLP, there is an n-gram method, which is a sequence of items from a given tex
 * https://data.world/
 * Google Search: https://datasetsearch.research.google.com/
 
+## Complete list of reading
+
+https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+
+
 ## NLP Analyses
 There are three types of NLP analyses:
 1. Syntactic analysis is essentially checking the dictionary definition of each element of a sentence or document. In this type of analysis, we don't care about the words that come before or after the word in question—we just care about the given word.
