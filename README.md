@@ -147,6 +147,10 @@ https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
 
 https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
 
+### Silhoutte
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_silhouette_analysis.html#sphx-glr-auto-examples-cluster-plot-kmeans-silhouette-analysis-py
+
 ## EDA
 
 ### EAD in Python
