@@ -143,6 +143,10 @@ https://neptune.ai/blog/image-processing-python-libraries-for-machine-learning
 
 https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/
 
+## Comprehensive K-Means Clustering
+
+https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/
+
 ## EDA
 
 ### EAD in Python
