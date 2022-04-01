@@ -163,6 +163,13 @@ http://neuralnetworksanddeeplearning.com/
 
 https://github.com/mnielsen/neural-networks-and-deep-learning
 
+## Choosing the right estimator
+
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+## ML work flow
+
+https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description
 
 ## MISC
 
