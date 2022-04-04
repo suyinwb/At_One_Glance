@@ -57,6 +57,9 @@ In NLP, there is an n-gram method, which is a sequence of items from a given tex
 
 6. Text Similarity: Another popular use case for NLP is determining document or sentence similarity. These are important use cases, because they can tell us a lot about a document and its contents.
 
+## Introduction to AI & ML by Google
+https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG
+
 ## Where to Find Datasets
 
 ### APIS
