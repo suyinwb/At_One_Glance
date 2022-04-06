@@ -60,6 +60,9 @@ In NLP, there is an n-gram method, which is a sequence of items from a given tex
 ## Introduction to AI & ML by Google
 https://www.youtube.com/watch?v=lYWt-aCnE2U&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG
 
+## KNN
+https://towardsdatascience.com/k-nearest-neighbors-knn-how-to-make-quality-predictions-with-supervised-learning-d5d2f326c3c2
+
 ## Where to Find Datasets
 
 ### APIS
