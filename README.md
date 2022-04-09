@@ -177,6 +177,9 @@ https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtube&utm_medium=unpaidsoc&utm_campaign=CDR_guo_aiml_nkw8ndu7mjw_010521&utm_content=description
 
+## Hyper Parameter Tuning with GridSearchCV
+https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
+
 ## MISC
 
 ### Resolving GitHub conflict
