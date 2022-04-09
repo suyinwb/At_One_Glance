@@ -180,6 +180,9 @@ https://cloud.google.com/ai-platform/docs/ml-solutions-overview?utm_source=youtu
 ## Hyper Parameter Tuning with GridSearchCV
 https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
 
+## Train Test Split
+https://realpython.com/train-test-split-python-data/
+
 ## MISC
 
 ### Resolving GitHub conflict
