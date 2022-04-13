@@ -183,6 +183,9 @@ https://towardsdatascience.com/gridsearchcv-for-beginners-db48a90114ee
 ## Train Test Split
 https://realpython.com/train-test-split-python-data/
 
+## Leave One Out Cross Validation
+https://machinelearningmastery.com/loocv-for-evaluating-machine-learning-algorithms/
+
 ## MISC
 
 ### Resolving GitHub conflict
